@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electronic Stepper Motor
+* source:	https://sketchfab.com/3d-models/electronic-stepper-motor-458dbc5bf94045f8beff19e13898ad2f
+* author:	Christian.Bittner (https://sketchfab.com/Christian.Bittner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electronic Stepper Motor" (https://sketchfab.com/3d-models/electronic-stepper-motor-458dbc5bf94045f8beff19e13898ad2f) by Christian.Bittner (https://sketchfab.com/Christian.Bittner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

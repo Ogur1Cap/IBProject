@@ -1,0 +1,668 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        200.0570068359375,
+        92.76653289794922,
+        92.76657104492188
+      ],
+      "min": [
+        -200.0570526123047,
+        -92.76653289794922,
+        -92.76653289794922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 73488,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        0.998004674911499,
+        0.9826922416687012
+      ],
+      "min": [
+        0.001994013786315918,
+        0.001993246143683791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48992,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        0.998004674911499,
+        0.9826922416687012
+      ],
+      "min": [
+        0.001994013786315918,
+        0.001993246143683791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 97984,
+      "componentType": 5126,
+      "count": 6124,
+      "max": [
+        0.998004674911499,
+        0.9826922416687012
+      ],
+      "min": [
+        0.001994013786315918,
+        0.001993246143683791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14328,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 146976,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        179.39199829101563,
+        197.8207244873047,
+        281.6002502441406
+      ],
+      "min": [
+        -349.2816162109375,
+        -50.292545318603516,
+        -32.97863006591797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 229428,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 97984,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 146976,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        0.998447060585022,
+        0.9960868954658508
+      ],
+      "min": [
+        0.0015499182045459747,
+        0.0015496611595153809
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 201944,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        0.998447060585022,
+        0.9960868954658508
+      ],
+      "min": [
+        0.0015499182045459747,
+        0.0015496611595153809
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 256912,
+      "componentType": 5126,
+      "count": 6871,
+      "max": [
+        0.998447060585022,
+        0.9960868954658508
+      ],
+      "min": [
+        0.0015499182045459747,
+        0.0015496611595153809
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 57312,
+      "componentType": 5125,
+      "count": 14757,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 311880,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        226.87086486816406,
+        147.13734436035156,
+        304.6875305175781
+      ],
+      "min": [
+        -347.5297546386719,
+        -57.030277252197266,
+        -56.065982818603516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 361512,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 207920,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 311880,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        0.9942606687545776,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 344968,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        0.9942606687545776,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 378056,
+      "componentType": 5126,
+      "count": 4136,
+      "max": [
+        0.9942606687545776,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 116340,
+      "componentType": 5125,
+      "count": 15222,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Harri Snellman (https://sketchfab.com/rivetech)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/industrial-grade-electric-motor-4716dafa53014557a6596bac7e0b2a5c",
+      "title": "Industrial Grade Electric Motor"
+    },
+    "generator": "Sketchfab-14.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 177228,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 411144,
+      "byteOffset": 177228,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 411144,
+      "byteOffset": 588372,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 274096,
+      "byteOffset": 999516,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1273612,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/MachineRotor_baseColor.png"
+    },
+    {
+      "uri": "textures/MachineRotor_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/MachineRotor_normal.png"
+    },
+    {
+      "uri": "textures/MachineParts2_baseColor.png"
+    },
+    {
+      "uri": "textures/MachineParts2_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/MachineParts2_normal.png"
+    },
+    {
+      "uri": "textures/MachineParts1_baseColor.png"
+    },
+    {
+      "uri": "textures/MachineParts1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/MachineParts1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "MachineRotor",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "MachineParts2",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "MachineParts1",
+      "normalTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Rotor_MachineRotor_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Machine_MachineParts2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "TEXCOORD_2": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Machine_MachineParts1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TANGENT": 16,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18,
+            "TEXCOORD_2": 19
+          },
+          "indices": 20,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3bcbb4b02d1e4040a6cdb8df2ad3e691.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.2918807189853396e-06,
+        137.12391662597656,
+        -7.650761127471924,
+        1.0
+      ],
+      "name": "Rotor"
+    },
+    {
+      "mesh": 0,
+      "name": "Rotor_MachineRotor_0"
+    },
+    {
+      "children": [
+        6,
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999847,
+        1.7484555314695084e-07,
+        0.0,
+        0.0,
+        -1.7484555314695084e-07,
+        0.9999999999999847,
+        0.0,
+        67.95854187011719,
+        50.574214935302734,
+        -131.96156311035156,
+        1.0
+      ],
+      "name": "Machine"
+    },
+    {
+      "mesh": 1,
+      "name": "Machine_MachineParts2_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Machine_MachineParts1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}
