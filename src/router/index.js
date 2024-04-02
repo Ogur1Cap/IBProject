@@ -13,6 +13,9 @@ import BigData from '@/Views/BigData'
 import ViewVr from '@/Views/ViewVr'
 import Mall from '@/Views/Mall'
 import loutimox from '@/Views/loutimox'
+import BigData2 from '@/Views/BigData2'
+import BigData3 from '@/Views/BigData3'
+import BigData4 from '@/Views/BigData4'
 
 Vue.use(VueRouter)
 
@@ -61,6 +64,20 @@ const routes = [
         path:'/louti',
         name:'louti',
         component: loutimox
+    },
+    {
+        path:'/BigData2',
+        name:'BigData2',
+        component: BigData2
+    },
+    {
+        path:'/BigData3',
+        name:'BigData3',
+        component: BigData3
+    },{
+        path:'/BigData4.vue',
+        name:"BigData4",
+        component: BigData4
     }
 ]
 

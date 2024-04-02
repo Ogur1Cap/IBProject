@@ -129,7 +129,7 @@ export default {
           );
         }
       );
-    },
+    }, 
     // 表单提交
     submit() {
       // 要用箭头函数,若用function会报错

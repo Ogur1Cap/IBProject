@@ -5,16 +5,17 @@
 </template>
 
 <script>
-export default {
-}
+export default {};
 </script>
 
-<style>
-html,
-body,
-h3,
+<style lang="scss">
+@font-face {
+  font-family: "UnidreamLED";
+  src: url("Views/font/UnidreamLED.woff");
+}
 p {
   margin: 0;
-  padding: 0
+  padding: 0;
+  box-sizing: border-box;
 }
 </style>
